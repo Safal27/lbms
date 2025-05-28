@@ -1,0 +1,55 @@
+#include<cstdio>
+#include<iostream>
+#include<cstring>
+#include<cctype>
+#include<stdlib>
+using namespace std;
+
+void enterYourName(char str[])
+{
+cout << "Enter Your Name";
+cin << char;
+char = 'c';
+count = strlen(str);
+if
+{
+is alpha('c');
+count++;
+}
+{
+else
+cout << "Invalid Input";
+}
+void EnterYourPassword(int str[])
+{
+count = strlen(str);
+cout << "Enter Your Password";
+cin << num;
+num = "i";
+if
+{
+is digit("i");
+count++;
+}
+else
+{
+cout << "Invalid Input";
+}
+int OpenBook(char str[])
+{
+count = strlen(str);
+cout << "Enter Name of Book";
+cin << char;
+char = 'c';
+if
+{
+is alpha ('c');
+count++;
+FILE fp;
+fp= fopen(fp);
+}
+else
+{
+cout << "Invalid Input";
+}
+
