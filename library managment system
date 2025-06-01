@@ -2,7 +2,6 @@
 #include<iostream>
 #include<cstring>
 #include<cctype>
-#include<stdlib>
 using namespace std;
 
 void enterYourName(char str[])
